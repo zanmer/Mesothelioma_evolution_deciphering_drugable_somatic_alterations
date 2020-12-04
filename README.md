@@ -1,5 +1,7 @@
 # Mesothelioma_evolution_deciphering_drugable_somatic_alterations
 
+Analysis scripts and relative data used in the paper "Clonal Architecture in Mesothelioma is prognostic and shapes the Tumour Microenvironment" by Zhang et al.
+
 ## data
 contains many .Rdata files ready to use in the analysis.
 
